@@ -5,9 +5,9 @@
 		versionCode = "100" 
 		version     = "1.0.0" >
 
-	<name>Guía de Turismo</name>
+	<name>Callejero Vegas del Genil</name>
 	<description>
-		Puntos de Interés
+		Callejro y puntos de interés de Vegas del Genil
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
